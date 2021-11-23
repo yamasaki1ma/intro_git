@@ -2,3 +2,4 @@
 nyaos
 nyaos2
 nyaos3
+nyaos status
